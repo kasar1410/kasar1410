@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kasar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
+<img align="right" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasar1410&label=Profile%20views&color=0e75b6&style=flat" alt="kasar1410" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasar1410" alt="kasar1410" /></a> </p>
 
 - 📫 How to reach me **vaibhavkasar594@gmail.com**
 
