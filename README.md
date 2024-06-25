@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kasar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" align="right" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasar1410&label=Profile%20views&color=0e75b6&style=flat" alt="kasar1410" /> </p>
 
