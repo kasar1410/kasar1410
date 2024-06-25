@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Kasar</h1>
 <h3 align="center">A Passionate Frontend Developer from India</h3>
-<img align="right" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif" alt="Image"/>
+<img align="right" width="400" src="[https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1Re_ZUvzpu8j1nxOl1eQD5&ust=1719375909712000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJi048f09YYDFQAAAAAdAAAAABAJ)" alt="Image"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kasar1410&label=Profile%20views&color=0e75b6&style=flat" alt="kasar1410" /> </p>
 
